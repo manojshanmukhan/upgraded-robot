@@ -8,6 +8,8 @@ one |  two   |1
 |three|four|2|
 |five|six|3|
 
+😄
+
 <details>
   <summary>collapsed</summary>
   # Header
