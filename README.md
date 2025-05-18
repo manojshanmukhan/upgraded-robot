@@ -8,7 +8,11 @@ one |  two   |1
 |three|four|2|
 |five|six|3|
 
-
+<details>
+  <summary>collapsed</summary>
+  # Header
+  This is the copy of the collapsed text
+</details>
 
 
 This is a footnote[^1]. Another footnote [^2]
